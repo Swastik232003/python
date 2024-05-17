@@ -4,4 +4,4 @@ name=input("what is the username")
 print("my name is" ,name) 
 x=245
 y=235
-print(x,y)
+print(x,y) 
